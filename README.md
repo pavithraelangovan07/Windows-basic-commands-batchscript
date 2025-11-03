@@ -1,4 +1,4 @@
-<img width="512" height="60" alt="Screenshot 2025-11-03 180849" src="https://github.com/user-attachments/assets/48de15eb-69d0-45db-8af6-fe7f67f37b26" /># Windows-basic-commands-batchscript
+# Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 ## NAME:PAVITHRA E
 ## REG NO:212224220072
